@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  /* background-image: url(paper.gif); */
+  background-color: aqua;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+  background-image: url(image2.png);
+  background-size: cover;
+  background-position: center;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
